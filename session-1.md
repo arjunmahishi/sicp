@@ -1,3 +1,5 @@
+# Session 1 (Nov 15th 2021)
+
 ### Exercise 1.1
 
 ```
@@ -52,8 +54,6 @@ false
   (define total (+ x y z))
   (define sum_of_big_small (+ biggest smallest))
   (- total sum_of_big_small))
-
-
 
 (define (fn x y z)
   (sum_of_sqr (max_of_3 x y z) (mid_of_3 x y z)))
