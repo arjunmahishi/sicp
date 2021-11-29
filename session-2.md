@@ -6,6 +6,7 @@
 - In an iteratice process, each step gets a "new state" the is enough to determine what to do next
 - If a procedure is calling itself, it does not mean that it is a *recursive process*. It really depends on how the process evolves
 - Iterative processes can be designed to execute in constant space. They are called *tail recursive* processes
+- In tail recursion, the recursive call is the last statement that is executed
 
 ### Exercise 1.9
 
